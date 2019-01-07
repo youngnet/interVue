@@ -1,0 +1,13 @@
+build
+node_modules*
+ncp-debug.log
+npm-debug.log
+dist*
+.DS_Store
+.sass-cache
+.vscode
+.idea
+config.dev.json
+package-lock.json
+.cache
+.sass-cache
